@@ -3,7 +3,9 @@ This is the configuration file for nginx and any associated documentation for ut
 
 ## Notable Documentation Sources
 https://nginx.org/en/docs/
+
 https://wiki.freebsd.org/Ports/nginx
+
 https://nginx.org/en/linux_packages.html
 
 ## Important Notes:
