@@ -93,7 +93,8 @@ sudo systemctl start nginx
 
 ## Verification
 
-Visit `http://<your-server-ip>/` in a browser. You should see the default NGINX welcome page.
+Visit `http://<your-server-ip>/` or `https://domain.name` in a browser. You should see the default NGINX welcome page or whatever you serve on index.html in your file path.
+Please note the difference between HTTP and HTTPS is dependent upon whether you have SSL certification from Cloudflare.
 
 ## Useful Commands
 
