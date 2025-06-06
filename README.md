@@ -6,9 +6,14 @@ https://nginx.org/en/docs/
 https://wiki.freebsd.org/Ports/nginx
 https://nginx.org/en/linux_packages.html
 
+## Important Notes:
+When setting up this service, check the nginx.conf file and make sure the file paths match for everything you are serving, or any pertinent SSL certificates.
+
 ---
 
 ## BSD: FreeBSD
+
+Note: You may not have sudo privileges on certain hosting services with BSD. It is not necessary everytime.
 
 ### 1. Install NGINX
 
